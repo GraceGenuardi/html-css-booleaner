@@ -38,3 +38,33 @@ margin-left: 70px;
     font-size: 20px;
 
 }
+
+
+.table {
+    border-color: black;
+
+}
+
+.first {
+    background-color:#00bfff;
+    color: white;
+    
+}
+
+.second {
+    background-color: #87ceeb;
+    height: 50px;
+    
+}
+
+.third {
+    height: 50px;
+    
+    
+}
+
+.four {
+    background-color: #87ceeb;
+    height: 50px;
+    
+}
