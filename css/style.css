@@ -1,10 +1,19 @@
+
+
+
+
+
 .copertina {
     background-image: url(../img/pattern.png);
     background-size: contain;
     height: 100px;
     background-color:cornflowerblue;
+    display: cover;
     
 }
+
+
+
 
 .logo {
 width: 200px;
@@ -12,3 +21,11 @@ padding-top: 40px;
 margin-left: 70px;
 
 }
+
+.articolo h3 {
+    color: grey;
+   }
+
+   .articolo h5 {
+    color: grey;
+   }   
