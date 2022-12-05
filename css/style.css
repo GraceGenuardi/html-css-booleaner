@@ -22,10 +22,19 @@ margin-left: 70px;
 
 }
 
-.articolo h3 {
+.inizio-articolo h3 {
     color: grey;
    }
 
    .articolo h5 {
     color: grey;
    }   
+
+.giallo {
+    background-color: yellow;
+}
+
+.articolo {
+    font-size: 20px;
+
+}
