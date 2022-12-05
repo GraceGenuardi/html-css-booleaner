@@ -68,3 +68,33 @@ margin-left: 70px;
     height: 50px;
     
 }
+
+.fine h2 {
+    color:gray;
+    
+}
+
+.fine h3 {
+    color:white;
+    font-size: 40px;
+
+    
+}
+
+.foto-uno {
+    background-image: url(../img/monitor.jpg);
+    width: 500px;
+    height: 300px;
+    background-size: contain;
+    
+    
+}
+
+.foto-due {
+    background-image: url(../img/graph.jpg);
+    width: 500px;
+    height: 300px;
+    background-size: contain;
+    
+    
+}
