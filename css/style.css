@@ -1,0 +1,14 @@
+.copertina {
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    height: 100px;
+    background-color:cornflowerblue;
+    
+}
+
+.logo {
+width: 200px;
+padding-top: 40px;
+margin-left: 70px;
+
+}
